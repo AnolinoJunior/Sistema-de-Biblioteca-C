@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anoli\\OneDrive - Educacional\\\u00C1rea de Trabalho\\Faculdade-Estrutura de dados\\Exercicio-2-sistema-biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D0160A-E3BD-471C-ABA5-7C66D4932F71}|Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.vcxproj|C:\\Users\\anoli\\OneDrive - Educacional\\\u00C1rea de Trabalho\\Faculdade-Estrutura de dados\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70D0160A-E3BD-471C-ABA5-7C66D4932F71}|Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.vcxproj|solutionrelative:Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHoCAAAAAAAAAAAWwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-06T12:09:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio-2-sistema-biblioteca.cpp",
+              "DocumentMoniker": "C:\\Users\\anoli\\OneDrive - Educacional\\\u00C1rea de Trabalho\\Faculdade-Estrutura de dados\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp",
+              "RelativeDocumentMoniker": "Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp",
+              "ToolTip": "C:\\Users\\anoli\\OneDrive - Educacional\\\u00C1rea de Trabalho\\Faculdade-Estrutura de dados\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp",
+              "RelativeToolTip": "Exercicio-2-sistema-biblioteca\\Exercicio-2-sistema-biblioteca.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T10:57:13.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
